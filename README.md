@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Fnote Mehari
 
-Track Name: 
+Track Name: DevOps
 
-Track Description: 
+Track Description: DevOps is a combination of development and operations
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
